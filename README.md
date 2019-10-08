@@ -1,3 +1,7 @@
+# Very demo version, !!! PROTOTYPE !!!
+# MoneyTransfer-test
+# Test for Revolut (Money transfer api)
+
 #### Structure
       + config/
           All app setups. Javalin, Koin and Database
